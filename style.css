@@ -1,0 +1,47 @@
+body {
+  max-width: 85%;
+  margin: auto;
+  background-color: #F4C2C2;
+}
+
+h1, p {
+  text-align: center;
+  color: #1E2294;
+  letter-spacing: 2px;
+  max-width: 85%;
+  align-content: center;
+}
+
+span.hero {
+  text-transform: uppercase;
+}
+
+span.real {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+span.living {
+  text-emphasis: double-circle #941561;
+}
+
+#img-div {
+  max-width: 85%;
+}
+
+#image {
+  max-width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+  align-content: center;
+  border-radius: 25px;
+  box-shadow: inset 0px 0px 40px 40px #F4C2C2;
+}
+
+#img-caption {
+  margin-left: 4em;
+  font-weight: bold;
+}
+
